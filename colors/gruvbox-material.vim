@@ -1547,14 +1547,14 @@ highlight! link phpStructure RedItalic
 highlight! link phpSpecialFunction GreenBold
 highlight! link phpInterpSimpleCurly Yellow
 highlight! link phpComparison Orange
-highlight! link phpMethodsVar Aqua
+highlight! link phpMethodsVar Blue
 highlight! link phpMemberSelector Green
 " }}}
 " php.vim: https://github.com/StanAngeloff/php.vim {{{
 highlight! link phpParent Fg
 highlight! link phpNowDoc Green
-highlight! link phpFunction GreenBold
-highlight! link phpMethod GreenBold
+highlight! link phpFunction Aqua
+highlight! link phpMethod Aqua
 highlight! link phpClass Orange
 highlight! link phpSuperglobals Purple
 " }}}
